@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RegistroPersonas:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RegistroPersonas</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="RegistroPersonas-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RegistroPersonas:war exploded" />
+    </root>
+  </artifact>
+</component>
